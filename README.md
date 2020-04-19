@@ -3,11 +3,9 @@ Building a custom image compression network based on convolutional neural networ
 ## Neuroevolution of Neural Networks
 The class Iris dataset is used for testing the neural network for classification.
 ### 1) Generic Neural Network
-<p align="center">
-  <img width="600" height="400" src="Images/No_opti.png">
-</p>
+![No Optimization]("Images/No_opti.png")
 #### Model Summary
-'''
+```
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
@@ -25,8 +23,7 @@ Forward/backward pass size (MB): 0.00
 Params size (MB): 0.00
 Estimated Total Size (MB): 0.00
 ----------------------------------------------------------------
-
-'''
+```
 
 
 ### 2) Neuroevolution of Neural Networks
